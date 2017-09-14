@@ -13,6 +13,7 @@ int main()
 	cin >> mano; 
 
 
+
 	if (mano == 1)
 	{
 		cout << " kkkk mano eu heim"<<endl;
