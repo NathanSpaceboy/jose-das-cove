@@ -2,6 +2,9 @@
 
 using namespace std;
 
+int mano= 8; 
+
+
 int main()
 {
 	cout << "Primeiraaaoo" << endl;
